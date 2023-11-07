@@ -1,0 +1,20 @@
+.home-page-wrapper {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.login-page-wrapper {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
